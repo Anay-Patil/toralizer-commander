@@ -27,7 +27,7 @@ To get started with **TorCommander**, follow these steps:
 
 ```bash
 git clone https://github.com/Anay-Patil/toralizer-commander.git
-cd TorCommander
+cd toralizer-commander
 ```
 
 ### **Build the project**
