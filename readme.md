@@ -26,7 +26,7 @@ To get started with **TorCommander**, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/TorCommander.git
+git clone https://github.com/Anay-Patil/toralizer-commander.git
 cd TorCommander
 ```
 
