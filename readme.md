@@ -1,7 +1,3 @@
-Sure! Below is a basic structure for your **README.md** file for **TorCommander**:
-
----
-
 # **TorCommander** - SOCKS4 Proxy Client
 
 **TorCommander** is a simple and lightweight SOCKS4 proxy client designed to allow users to route their network traffic through a SOCKS4 proxy server. It provides privacy and security by masking the user's real IP address and location. This tool can also help users bypass geographical restrictions and censorship.
